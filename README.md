@@ -10,7 +10,7 @@ By<br />
 The final-gen, final-gen-TFIDF and final-gen-forrun are the notebook that we use as our final result from our work.<br />
 The others 3 notebook generation are the notebook that would show our work progress.<br />
 The CSV file are the dataset that we use for train and test<br />
-!!! Change all path to file before run the code!!!
+<font size="12">!!! Change all path to file before run the code !!!</font>
 ## Installation
 Please Install all the required dependencies before use the notebook. All dependencies can be found in requirements.txt<br />
 OR run
